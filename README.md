@@ -101,7 +101,7 @@ This challenge asks you to take a string composed of only lowercase letters and 
 ## Instructions
 
 1. You can develop your solutions using your preferred programming/scripting language, python is preferred.
-2. You are expected to attempt all 10 questions.
+2. Complete at least any 5 questions. However, you are expected to attempt all 10 questions.
 3. You are encouraged to attempt the bonus questions. Solving the bonus questions gives additional points.
 4. Do not copy solutions from the Internet, books or seek help elsewhere (this will be embarrassing when you are asked to explain your code).
 5. Comment every step in your code.
